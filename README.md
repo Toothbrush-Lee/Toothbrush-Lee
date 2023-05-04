@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Environment Studies and Nano Material
+- 🌱 I’m currently learning CS and Web Dev Class online from UCB
+- 😄 Pronouns: he/him/his
