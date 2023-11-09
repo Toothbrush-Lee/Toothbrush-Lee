@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👨‍🎓 I'm a student in Berjing Normal University
+- 👨‍🎓 I'm a student in Beijing Normal University
 - 🔭 I’m currently working on Environmental Chemistry and Nano Material
 - 🌱 I’m currently learning CS and Web Dev MOOCs,
     - Having gained a lot of benefit from [CS DIY Wiki](https://csdiy.wiki/) and Berkeley open source courses.
