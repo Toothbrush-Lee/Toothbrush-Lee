@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Environment Studies and Nano Material
-- 🌱 I’m currently learning CS and Web Dev Class online from UCB
-- 😄 Pronouns: he/him/his
+- 🌱 I’m currently learning CS and Web Dev Classes online
+- 😄 Pronouns: he/him/his/any pronouns
