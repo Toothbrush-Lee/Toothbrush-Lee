@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Environment Studies and Nano Material
-- 🌱 I’m currently learning CS and Web Dev Classes online
+- 👨‍🎓 I'm studying in Berjing Normal University, major in Environmental Science
+- 🔭 I’m currently working on Environmental Chemistry and Nano Material
+- 🌱 I’m currently learning CS and Web Dev MOOCs,
+    - Having gained a lot of benefit from [CS DIY Wiki](https://csdiy.wiki/) and Berkeley open source courses.
+- 🖥 I have a personal page: https://www.lilx.xyz
 - 😄 Pronouns: he/him/his/any pronouns
