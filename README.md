@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👨‍🎓 I'm a student in Beijing Normal University
+- 👨‍🎓 I'm a student in Beijing Normal University major in Environmental Science
 - 🌱 I’m currently learning CS and Web Dev MOOCs,
     - Having gained a lot of benefit from [CS DIY Wiki](https://csdiy.wiki/) and Berkeley open source courses.
-- 😄 Pronouns: he/him/his/any pronouns
+- 😄 Pronouns: he/him/his/any pronouns you like
+- 📫 How to reach me: [Personal Web](https://www.linxuan.li)
